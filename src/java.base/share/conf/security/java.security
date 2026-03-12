@@ -321,6 +321,7 @@ RestrictedSecurity.OpenJCEPlusFIPS.FIPS140-3.jce.provider.3 = sun.security.ssl.S
 
 RestrictedSecurity.OpenJCEPlusFIPS.FIPS140-3.securerandom.provider = OpenJCEPlusFIPS
 RestrictedSecurity.OpenJCEPlusFIPS.FIPS140-3.securerandom.algorithm = SHA512DRBG
+RestrictedSecurity.OpenJCEPlusFIPS.FIPS140-3.securerandom.strongAlgorithms = SHA512DRBG:OpenJCEPlusFIPS
 
 # Strongly enforced restricted security mode profile for FIPS 140-3.
 #
